@@ -1,4 +1,4 @@
-# 📊 JD Audio - Monitoreo Analítico de la Tienda Principal
+# 📊 JD Audio - Monitoreo Analítico de la tienda de instrumentos JD Audio
 
 Este proyecto forma parte de la práctica del **Módulo 2.1** de Jupi Digital. Consiste en el diseño y desarrollo de un **dashboard analítico** en **Qlik Sense**, orientado a monitorear el rendimiento comercial de la **tienda principal** de JD Audio.
 
