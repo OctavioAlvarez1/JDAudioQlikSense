@@ -83,5 +83,5 @@ También se incluye el informe final en formato PDF:
 
 ## 👨‍💻 Autor
 
-Este proyecto fue realizado por [Tu nombre] como parte de la formación en Jupi Digital.
+Este proyecto fue realizado por Octavio Alvarez como parte de la formación en Jupi Digital.
 
